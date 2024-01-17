@@ -1,0 +1,12 @@
+{
+    "paintings": [
+        {
+            "name": "butterfly",
+            "description": "he flys so beautifully"
+        },
+        {
+            "name": "ant",
+            "description": "he walks so willfully"
+        }
+    ]
+}
